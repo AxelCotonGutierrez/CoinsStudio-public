@@ -63,6 +63,7 @@ Los vídeos de uso se publican en YouTube.
 
 Aquí se enlazarán los tutoriales disponibles:
 
+- Descarga: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Instalación en Windows: [Ver en YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
 - Gestión de piezas
 - Procesados
@@ -139,6 +140,7 @@ Video tutorials are published on YouTube.
 
 The available tutorials will be linked here:
 
+- Download: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Windows installation: [Watch on YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
 - First steps
 - Piece management
