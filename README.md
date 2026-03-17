@@ -51,8 +51,9 @@ Los vídeos de uso se publican en YouTube.
 Aquí se enlazarán los tutoriales disponibles:
 
 <a href="https://www.youtube.com/watch?v=2OJKYMa1d1I" target="_blank" rel="noopener noreferrer">
-  Ver vídeo de instalación en YouTube
+  <img src="docs/screenshots/video_instalacion.png" alt="Vídeo de instalación de CoinsStudio" width="720">
 </a>
+
 - Gestión de piezas
 - Procesados
 - Calibración
