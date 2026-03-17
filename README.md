@@ -65,6 +65,7 @@ Aquí se enlazarán los tutoriales disponibles:
 
 - Descarga: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Instalación en Windows: [Ver en YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
+- Primera Pieza: [Watch on YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
 - Gestión de piezas
 - Procesados
 - Calibración
@@ -142,6 +143,7 @@ The available tutorials will be linked here:
 
 - Download: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Windows installation: [Watch on YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
+- First piece: [Watch on YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
 - First steps
 - Piece management
 - Processing modes
