@@ -65,8 +65,9 @@ Aquí se enlazarán los tutoriales disponibles:
 
 - Descarga: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Instalación en Windows: [Ver en YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
-- Primera Pieza: [Watch on YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
-- Búsqueda de piezas: [Watch on YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
+- Primera Pieza: [Ver en YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
+- Búsqueda de piezas: [Ver en YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
+- Carga de imágenes: [Ver en YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - Gestión de piezas
 - Procesados
 - Calibración
@@ -142,10 +143,11 @@ Video tutorials are published on YouTube.
 
 The available tutorials will be linked here:
 
-- Download: [Ver en YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
+- Download: [Watch on YouTube](https://www.youtube.com/watch?v=l0fCW0Sol9M)
 - Windows installation: [Watch on YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
 - First piece: [Watch on YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
 - Search coins: [Watch on YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
+- Image Loading: [Watch on YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - First steps
 - Piece management
 - Processing modes
