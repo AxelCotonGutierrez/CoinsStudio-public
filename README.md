@@ -39,7 +39,20 @@ Esto ocurre porque la aplicación no dispone de un certificado comercial de firm
 
 ### Capturas
 
+#### Pantalla inicial
 ![Pantalla inicial de CoinsStudio](docs/screenshots/pantalla_inicial.png)
+
+#### Espacio de trabajo
+![Espacio de trabajo de CoinsStudio](docs/screenshots/espacio_de_trabajo.png)
+
+#### Medición
+![Medición en CoinsStudio](docs/screenshots/medicion.png)
+
+#### Comparación
+![Comparación en CoinsStudio](docs/screenshots/comparacion.png)
+
+#### Superposición
+![Superposición en CoinsStudio](docs/screenshots/superposicion.png)
 
 ### Vídeos de uso
 
@@ -51,7 +64,6 @@ Los vídeos de uso se publican en YouTube.
 Aquí se enlazarán los tutoriales disponibles:
 
 - Instalación en Windows: [Ver en YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
-
 - Gestión de piezas
 - Procesados
 - Calibración
@@ -103,7 +115,20 @@ This happens because the application does not include a commercial code-signing 
 
 ### Screenshots
 
+#### Main screen
 ![CoinsStudio main screen](docs/screenshots/main_ui.png)
+
+#### Workspace
+![CoinsStudio workspace](docs/screenshots/workspace_screen.png)
+
+#### Measurement
+![CoinsStudio measurement](docs/screenshots/measurement.png)
+
+#### Comparison
+![CoinsStudio comparison](docs/screenshots/comparison.png)
+
+#### Overlay
+![CoinsStudio overlay](docs/screenshots/overlay.png)
 
 ### Video tutorials
 
@@ -115,7 +140,6 @@ Video tutorials are published on YouTube.
 The available tutorials will be linked here:
 
 - Windows installation: [Watch on YouTube](https://www.youtube.com/watch?v=2OJKYMa1d1I)
-
 - First steps
 - Piece management
 - Processing modes
