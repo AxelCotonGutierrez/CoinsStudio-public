@@ -39,7 +39,7 @@ Esto ocurre porque la aplicación no dispone de un certificado comercial de firm
 
 ### Capturas
 
-Las capturas principales del programa se encuentran en `docs/screenshots`.
+![Pantalla inicial de CoinsStudio](docs/screenshots/pantalla_inicial.png)
 
 ### Vídeos de uso
 
@@ -103,7 +103,7 @@ This happens because the application does not include a commercial code-signing 
 
 ### Screenshots
 
-Main screenshots of the application are available in `docs/screenshots`.
+![CoinsStudio main screen](docs/screenshots/main_ui.png)
 
 ### Video tutorials
 
