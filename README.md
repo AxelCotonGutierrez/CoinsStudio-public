@@ -50,7 +50,8 @@ Los vídeos de uso se publican en YouTube.
 
 Aquí se enlazarán los tutoriales disponibles:
 
-- Instalación en Windows
+[![Vídeo de instalación de CoinsStudio](docs/screenshots/video_instalacion.png)](AQUI_TU_ENLACE)
+
 - Primer uso
 - Gestión de piezas
 - Procesados
@@ -114,7 +115,8 @@ Video tutorials are published on YouTube.
 
 The available tutorials will be linked here:
 
-- Windows installation
+[![CoinsStudio installation video](docs/screenshots/video_instalacion.png)](AQUI_TU_ENLACE)
+
 - First steps
 - Piece management
 - Processing modes
