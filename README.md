@@ -12,7 +12,7 @@ El proyecto continúa en desarrollo y puede recibir mejoras, ajustes y nuevas fu
 
 ### Descarga
 
-La descarga del instalador está disponible en la sección **Releases** de este repositorio.
+[La descarga del instalador está disponible en la sección **Releases** de este repositorio.](https://github.com/AxelCotonGutierrez/CoinsStudio-public/releases/latest)
 
 ### Instalación
 
@@ -76,7 +76,7 @@ The project is still under active development and may receive improvements, adju
 
 ### Download
 
-The installer is available in the **Releases** section of this repository.
+[The installer is available in the **Releases** section of this repository.](https://github.com/AxelCotonGutierrez/CoinsStudio-public/releases/latest)
 
 ### Installation
 
