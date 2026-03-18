@@ -164,4 +164,6 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Licencia / License
 
-Pendiente de definir / To be defined.
+CoinsStudio is distributed as proprietary freeware for personal, non-commercial use only.
+
+CoinsStudio se distribuye como software propietario gratuito para uso personal y no comercial.
