@@ -68,8 +68,7 @@ Aquí se enlazarán los tutoriales disponibles:
 - Primera Pieza: [Ver en YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
 - Búsqueda de piezas: [Ver en YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
 - Carga de imágenes: [Ver en YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
-- Gestión de piezas
-- Procesados
+- Procesados: [Ver en YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
 - Calibración
 - Medición
 - Comparación
@@ -148,9 +147,8 @@ The available tutorials will be linked here:
 - First piece: [Watch on YouTube](https://www.youtube.com/watch?v=GMWzIoOJRwc)
 - Search coins: [Watch on YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
 - Image Loading: [Watch on YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
-- First steps
-- Piece management
-- Processing modes
+- Processing modes: [Watch on YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
+
 - Calibration
 - Measurement
 - Comparison
