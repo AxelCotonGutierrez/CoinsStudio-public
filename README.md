@@ -69,7 +69,7 @@ Aquí se enlazarán los tutoriales disponibles:
 - Búsqueda de piezas: [Ver en YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
 - Carga de imágenes: [Ver en YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - Procesados: [Ver en YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
-- Calibración
+- Calibración: [Ver en YouTube](https://www.youtube.com/watch?v=Jp4dVrdzLC0)
 - Medición
 - Comparación
 
@@ -148,8 +148,7 @@ The available tutorials will be linked here:
 - Search coins: [Watch on YouTube](https://www.youtube.com/watch?v=KjMU9qGuqlw)
 - Image Loading: [Watch on YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - Processing modes: [Watch on YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
-
-- Calibration
+- Calibration: [Watch on YouTube](https://www.youtube.com/watch?v=Jp4dVrdzLC0)
 - Measurement
 - Comparison
 
