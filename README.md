@@ -77,6 +77,14 @@ Aquí se enlazarán los tutoriales disponibles:
 
 Consulta el archivo [CHANGELOG.md](CHANGELOG.md).
 
+## Licencia
+
+Consulta [LICENSE](LICENSE).
+
+## Autor
+
+**Axel Cotón Gutiérrez**
+
 ---
 
 ## English
@@ -156,14 +164,10 @@ The available tutorials will be linked here:
 
 See [CHANGELOG.md](CHANGELOG.md).
 
----
-
-## Autor / Author
+## Author
 
 **Axel Cotón Gutiérrez**
 
-## Licencia / License
+## License
 
-CoinsStudio is distributed as proprietary freeware for personal, non-commercial use only.
-
-CoinsStudio se distribuye como software propietario gratuito para uso personal y no comercial.
+See [LICENSE](LICENSE).
