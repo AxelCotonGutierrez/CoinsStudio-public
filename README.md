@@ -70,8 +70,8 @@ Aquí se enlazarán los tutoriales disponibles:
 - Carga de imágenes: [Ver en YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - Procesados: [Ver en YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
 - Calibración: [Ver en YouTube](https://www.youtube.com/watch?v=Jp4dVrdzLC0)
-- Medición
-- Comparación
+- Medición: [Ver en YouTube](https://www.youtube.com/watch?v=NgU1H3BC108)
+- Comparación y Superposición: [Ver en YouTube](https://www.youtube.com/watch?v=n--DM1WL3vA)
 
 ### Historial de cambios
 
@@ -149,8 +149,8 @@ The available tutorials will be linked here:
 - Image Loading: [Watch on YouTube](https://www.youtube.com/watch?v=1LhN2gPG3Ow)
 - Processing modes: [Watch on YouTube](https://www.youtube.com/watch?v=rnV0bR5dhsg)
 - Calibration: [Watch on YouTube](https://www.youtube.com/watch?v=Jp4dVrdzLC0)
-- Measurement
-- Comparison
+- Measurement: [Watch on YouTube](https://www.youtube.com/watch?v=NgU1H3BC108)
+- Comparison and Overlay: [Watch on YouTube](https://www.youtube.com/watch?v=n--DM1WL3vA) 
 
 ### Change log
 
